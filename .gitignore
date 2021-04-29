@@ -1,0 +1,18 @@
+# Emacs
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+.bloop
+.metals
+.bsp
+
+# Other
+.directory
+

@@ -1,0 +1,9 @@
+[submodule "rdfshape-api"]
+	path = rdfshape-api
+	url = git@github.com:weso/rdfshape-api.git
+[submodule "rdfshape-client"]
+	path = rdfshape-client
+	url = git@github.com:weso/rdfshape-client.git
+[submodule "wikishape"]
+	path = wikishape
+	url = git@github.com:weso/wikishape.git

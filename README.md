@@ -36,6 +36,9 @@ If you only require certain services of the RDFShape stack or want to test them 
 
 Alternatively, you may get yourself a fully operational RDFShape service using our [deployed services](https://github.com/weso/rdfshape#structure-of-rdfshape).
 
+### WESO members
+Weso members can access the instructions for deploying RDFShape in our [Wiki](https://github.com/weso/wesolocal/wiki/rdfshape).
+
 # Contribution and issues
 
 Contributions are greatly appreciated. Please head to the specific sub-repositories of RDFShape to open a

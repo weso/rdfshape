@@ -28,8 +28,6 @@ RDFShape is formed by:
   - [Repo](https://github.com/weso/wikishape)
   - [Deployment](http://wikishape.weso.es/)
 
-# How to use this image
-Refer to the [repository's readme](https://github.com/weso/rdfshape#deploy-with-docker).
 
 # Deploying a full RDFShape stack (server & clients)
 A template [docker-compose file](https://github.com/weso/rdfshape/blob/master/docker-compose.yml) is available in this repository for users to tweak it according to their needs.

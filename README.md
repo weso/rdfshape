@@ -20,7 +20,7 @@ RDFShape is formed by:
 
 - **rdfshape-api**: A backend in charge of the operations, which are exposed in the form of a public API
   - [Repo](https://github.com/weso/rdfshape-api)
-  - [Deployment](http://rdfshape.weso.es:8080)
+  - [Deployment](https://api.rdfshape.weso.es)
 - **rdfshape-client**: A general use-case client
   - [Repo](https://github.com/weso/rdfshape-client)
   - [Deployment](http://rdfshape.weso.es)

@@ -23,10 +23,10 @@ RDFShape is formed by:
   - [Deployment](https://api.rdfshape.weso.es)
 - **rdfshape-client**: A general use-case client
   - [Repo](https://github.com/weso/rdfshape-client)
-  - [Deployment](http://rdfshape.weso.es)
+  - [Deployment](https://rdfshape.weso.es)
 - **wikishape**: A wikibase/wikidata oriented client
   - [Repo](https://github.com/weso/wikishape)
-  - [Deployment](http://wikishape.weso.es/)
+  - [Deployment](https://wikishape.weso.es/)
 
 
 # Deploying a full RDFShape stack (server & clients)

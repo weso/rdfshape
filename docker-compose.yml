@@ -13,10 +13,6 @@ services:
       #   The ".crt" and ".key" files should be named after the virtual host.
       #   e.g.: if we expose the app under the domain "weso.es" we'd need: "weso.es.crt" and "weso.es.key".
       - /path/to/your/certificates:/etc/nginx/certs
-    environment:
-      # Do not enforce HTTPS, but redirect to it
-      - HSTS=off
-      - HTTPS_METHOD=redirect
 
   rdfshape-api:
     image: ghcr.io/weso/rdfshape-api:stable
